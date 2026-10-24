@@ -23,8 +23,9 @@ email: calebch.teo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Collection of thoughts and reflections. Used for purposes to grow.
   Project "God's Glory" was the legacy, missed years but we move and learn.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /WritingsFromCrawlingTurtle # the subpath of your site, e.g. /blog
+domain: calebteo.github.io
+url: https://calebteo.github.io  # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  calebteo
 
