@@ -1,0 +1,29 @@
+# Psalm 119 - Love for His Word
+
+> ### Aleph
+> $^{1}$ Blessed are those whose ways are blameless,\
+> who walk according to the law of the Lord.\
+> $^{2}$ Blessed are those who keep his statutes\
+> and seek him with all their heart—\
+> $^{3}$ they do no wrong\
+> but follow his ways.\
+> $^{4}$ You have laid down precepts\
+> that are to be fully obeyed.\
+> $^{5}$ Oh, that my ways were steadfast\
+> in obeying your decrees!\
+> $^{6}$ Then I would not be put to shame\
+> when I consider all your commands.\
+> $^{7}$ I will praise you with an upright heart\
+> as I learn your righteous laws.\
+> $^{8}$ I will obey your decrees;\
+> do not utterly forsake me.
+
+The Psalmist calls us to rightly relate with God and his word. This psalm shows his love for the word and it is alluring. 
+
+His excitement draws us in to see it from his point of view. 
+
+It is a blessing to be blameless and to be able to walk in step with the law of the Lord. The law is to be fully obeyed and when we do we are not put to shame. Our ways become steady and firm when we obey. 
+
+This is how God has made us to be and this is how God design his creation to live - in full obedience. The Law is God's word on how humans are to behave and when we are alined with God praise arises from our hearts. 
+
+It requires us to learn, to be a learner and to sit and meditate on his word.
